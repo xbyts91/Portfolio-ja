@@ -21,7 +21,7 @@ QRコードを用いた入退室管理のウェブアプリケーション。リ
 ---
 
 ### 📊 中心極限定理の可視化
-**[リポジトリ](https://github.com/xbyts91/Portfolio-ja/CLT)** ｜ `Python` `数理統計`
+**[リポジトリ](https://github.com/xbyts91/Portfolio-ja/blob/main/CLT.ipynb)** ｜ `Python` `数理統計`
 
 いくつかの分布からのサンプリングを通じて中心極限定理を視覚的に示すプロジェクト。
 
