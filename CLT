@@ -6,21 +6,10 @@
         "id": "Mv4BSzY4jT8z"
       },
       "source": [
-        "<h1 style=\"text-align: center;\">応用基礎データサイエンス・AI 第一</h1>\n",
-        "<h2 style=\"text-align: center;\">期末演習課題</h2>\n",
+        "<h1 style=\"text-align: center;\">中心極限定理の可視化/比較</h1>\n",
+        "<h2 style=\"text-align: center;\">上田レオナルド</h2>\n",
         "<br>\n",
-        "<h4 style=\"text-align: center;\">東京科学大学　データサイエンス・AI全学教育機構</h4>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "EiqqdbUYjUEN"
-      },
-      "source": [
-        "第2〜7回授業の配布資料(JupyterNotebook)中に示したPythonサンプルプログラムを参考に、 各自が設定した処理を行うPythonプログラムを作成し実行する。  \n",
-        "条件やデータなどの設定を変えて処理結果を検討する／ライブラリの関数・メソッドを自分で実装する／同じ機能を異なるコーディングで実現する／データ可視化表現を見やすく工夫する　など設定の仕方は自由。  \n",
-        "他者の既存プログラム内容そのままのコピー＆ペーストは厳禁、またデータサイエンス・AIに関係するテーマとすること。"
+        "<h4 style=\"text-align: center;\">東京科学大学　情報理工学院 数理・計算科学系</h4>"
       ]
     },
     {
