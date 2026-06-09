@@ -7,7 +7,7 @@
 ## プロジェクト一覧
 
 ### 🌐 QRコード入退室管理システム
-**[リポジトリ](https://github.com/xbyts91/QR-Code-Manage-System)** ｜ `Python` `WebApp`
+**[リポジトリ](https://github.com/xbyts91/QR-Code-Manage-System)** ｜ `TypeScript` `WebApp`
 
 QRコードを用いた入退室管理のウェブアプリケーション。リアルタイムでの入退室記録・管理機能を実装。
 
