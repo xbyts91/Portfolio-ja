@@ -6,10 +6,12 @@
 
 ## プロジェクト一覧
 
-### 🌐 QRコード入退室管理システム
-**[リポジトリ](https://github.com/xbyts91/QR-Code-Manage-System)** ｜ `TypeScript` `WebApp`
+### 📈 Rough Path meets Deep Learning: Neural CDEによる時系列モデリング
+**[リポジトリ](https://github.com/xbyts91/rough-path-time-series)** ｜ `Python` `深層学習` `時系列`
 
-QRコードを用いた入退室管理のウェブアプリケーション。リアルタイムでの入退室記録・管理機能を実装。
+Rough path理論に基づくNeural Controlled Differential Equations（Neural CDE）を用いた時系列モデリングの実装・検証。
+
+
 
 ---
 
@@ -27,10 +29,10 @@ QRコードを用いた入退室管理のウェブアプリケーション。リ
 
 ---
 
-### 📈 Rough Path meets Deep Learning: Neural CDEによる時系列モデリング
-**[リポジトリ](https://github.com/xbyts91/rough-path-time-series)** ｜ `Python` `深層学習` `時系列`
+### 🌐 QRコード入退室管理システム
+**[リポジトリ](https://github.com/xbyts91/QR-Code-Manage-System)** ｜ `TypeScript` `WebApp`
 
-Rough path理論に基づくNeural Controlled Differential Equations（Neural CDE）を用いた時系列モデリングの実装・検証。
+QRコードを用いた入退室管理のウェブアプリケーション。リアルタイムでの入退室記録・管理機能を実装。
 
 ---
 
@@ -38,7 +40,7 @@ Rough path理論に基づくNeural Controlled Differential Equations（Neural CD
 
 | 分野 | 内容 |
 |---|---|
-| 言語 | Python, （他に使える言語があれば追記） |
+| 言語 | Python, C++ |
 | 数学・理論 | 確率論, 統計, 最適化, 深層学習理論 |
 | 開発 | Webアプリ開発, データ可視化 |
 
