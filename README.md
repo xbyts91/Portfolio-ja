@@ -46,5 +46,5 @@ Rough path理論に基づくNeural Controlled Differential Equations（Neural CD
 
 ## 連絡先
 
-- 📧 [your.email@example.com](mailto:luedal12@gmail.com)
+- 📧 [luedal12@gmail.com](mailto:luedal12@gmail.com)
 - 🔗 [GitHub](https://github.com/xbyts91)
